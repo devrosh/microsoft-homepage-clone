@@ -1,0 +1,21 @@
+.carbon-banner {
+  height: 400px;
+  background-image: url("./images/carbon.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.carbon-content {
+  width: 55%;
+  padding: 80px 0 0 30px;
+  color: #fff;
+}
+.carbon-content .button {
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.carbon-content .button i {
+  margin-left: 10px;
+}

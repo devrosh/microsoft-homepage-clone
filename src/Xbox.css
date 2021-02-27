@@ -1,0 +1,31 @@
+.xbox-banner {
+  height: 400px;
+  background-image: url("./images/xbox.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+}
+.xbox-banner h2 {
+  margin-bottom: 30px;
+}
+.xbox-banner p {
+  max-width: 200px;
+  margin-bottom: 140px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.xbox-banner a.btn1 {
+  padding: 10px 20px;
+  background-color: #262626;
+  color: #fff;
+}
+.xbox-banner a.btn1 i {
+  margin-left: 10px;
+}
+.xbox-banner a.btn1:hover {
+  background-color: #f2f2f2;
+  color: #262626;
+  border: 1px solid #262626;
+  font-weight: bold;
+}
